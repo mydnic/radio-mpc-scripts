@@ -1,0 +1,3 @@
+mountnas
+mpc play
+
