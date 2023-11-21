@@ -1,3 +1,5 @@
+# Run this everyday at midnigh to update database with new songs
+
 # Restart MPD
 sudo /etc/init.d/mpd restart
 

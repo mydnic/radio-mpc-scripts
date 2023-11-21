@@ -1,6 +1,3 @@
-mountnas
-mpc clear
-cd /home/pi/NasTirith/music/Musiques/
-mpc add *
+mpc random on
+mpc repeat on
 mpc play
-
